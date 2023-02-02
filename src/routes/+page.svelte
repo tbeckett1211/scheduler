@@ -351,7 +351,7 @@
 	<div class="flex w-[599.76vw]">
 		<div class="h-[4vh] w-[85.68vw] text-[2vh] p-1 text-center">
 			MONDAY * MONDAY * MONDAY * MONDAY * MONDAY * MONDAY * MONDAY * MONDAY * MONDAY * MONDAY *
-			MONDAY * MONDAY * MONDAY * MONDAY * MONDAY
+			MONDAY * MONDAY * MONDAY * MONDAY
 		</div>
 		<div class="h-[4vh] w-[85.68vw] text-[2vh] p-1 text-center">
 			TUESDAY * TUESDAY * TUESDAY * TUESDAY * TUESDAY * TUESDAY * TUESDAY * TUESDAY * TUESDAY *
